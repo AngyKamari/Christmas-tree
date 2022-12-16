@@ -1,0 +1,19 @@
+body{
+	font-size:18px;
+	width:80%;
+	text-align:center;
+	}
+h1{
+	color:#8A2BE2; 
+	text-transform:capitalize;
+	}
+.odd {
+	color: blue;
+	}
+.even {
+	color: white;
+	background-color: blue
+}
+img{border-radius:50%;
+max-width: 100%;
+	height: auto;
